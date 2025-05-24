@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="G:/Downloads/google-http-client-gson-1.40.1.jar"/>
+	<classpathentry kind="lib" path="G:/Downloads/google-http-client-1.40.1.jar"/>
+	<classpathentry kind="lib" path="G:/Downloads/google-auth-library-credentials-1.19.0 (1).jar"/>
+	<classpathentry kind="lib" path="G:/Downloads/google-auth-library-credentials-1.19.0.jar"/>
+	<classpathentry kind="lib" path="G:/Downloads/google-auth-library-oauth2-http-1.19.0.jar"/>
+	<classpathentry kind="lib" path="G:/Downloads/grpc-context-1.54.0 (1).jar"/>
+	<classpathentry kind="lib" path="G:/Downloads/grpc-context-1.54.0.jar"/>
+	<classpathentry kind="lib" path="G:/Downloads/opencensus-contrib-http-util-0.28.3.jar"/>
+	<classpathentry kind="lib" path="G:/Downloads/opencensus-api-0.28.3.jar"/>
+	<classpathentry kind="lib" path="G:/Downloads/servlet-api-2.5-6.1.14.jar"/>
+	<classpathentry kind="lib" path="G:/Downloads/jetty-util-6.1.26.jar"/>
+	<classpathentry kind="lib" path="G:/Downloads/jetty-6.1.26.jar"/>
+	<classpathentry kind="lib" path="G:/Downloads/guava-31.1-jre.jar"/>
+	<classpathentry kind="lib" path="G:/Downloads/google-oauth-client-java6-1.25.0.jar"/>
+	<classpathentry kind="lib" path="G:/Downloads/google-oauth-client-jetty-1.25.0.jar"/>
+	<classpathentry kind="lib" path="G:/Downloads/gson-2.13.1.jar"/>
+	<classpathentry kind="lib" path="G:/Downloads/google-http-client-gson-1.47.0.jar"/>
+	<classpathentry kind="lib" path="G:/Downloads/google-http-client-1.47.0.jar"/>
+	<classpathentry kind="lib" path="G:/Downloads/google-oauth-client-1.39.0.jar"/>
+	<classpathentry kind="lib" path="G:/Downloads/google-api-client-2.8.0.jar"/>
+	<classpathentry kind="lib" path="G:/Downloads/google-api-services-blogger-v3-rev20221220-2.0.0.jar"/>
+	<classpathentry kind="lib" path="client_secret_224579602995-3s2cpn0flv2tbv6mis27tmrhhmos4c01.apps.googleusercontent.com.json"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
